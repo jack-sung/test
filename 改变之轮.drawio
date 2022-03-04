@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T02:10:46.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TokyV3OAxUejfIqrKc4E" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T02:19:02.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vLbM4X93d2HwEOikTTjd" version="16.6.5" type="github">
   <diagram id="qF9AEHbCkQHK-28NDLdn" name="第 1 页">
     <mxGraphModel dx="1106" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,17 +31,17 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-10" value="创造&lt;br&gt;增加&lt;br&gt;发明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="60" height="40" as="geometry" />
+        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-10" value="&lt;b&gt;创造&lt;/b&gt;&lt;br&gt;增加&lt;br&gt;发明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-13" value="消除&lt;br&gt;根除&lt;br&gt;减少" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-13" value="&lt;b&gt;消除&lt;/b&gt;&lt;br&gt;根除&lt;br&gt;减少" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-14" value="保留&lt;br&gt;改善&lt;br&gt;维持" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="195" width="60" height="30" as="geometry" />
+        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-14" value="&lt;b&gt;保留&lt;/b&gt;&lt;br&gt;改善&lt;br&gt;维持" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="190" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-15" value="接受&lt;br&gt;调和&lt;br&gt;拖延" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="EQ4UKSnhvVzFpteJ6aTi-15" value="&lt;b&gt;接受&lt;/b&gt;&lt;br&gt;调和&lt;br&gt;拖延" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="310" width="60" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
